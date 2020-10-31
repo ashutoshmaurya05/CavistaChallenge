@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  iOSChallenge
+
+  Created by Ashutosh Maurya on 31/10/20.
+  
+*/
+
+//Error Strings
+"url_error" = "Not able to fetch data from server as URL is invalid.";
+"db_storage_error" = "Failed to store data in Local Storage.";
+"db_server_error" = "Not able to fetch data from server.";
+
+// View Strings
+"navigation_title" = "Challenge List";
+"id" = "1010";
+"type" = "Image";
+"date" = "10/12/2020";
+"data" = "This is the placeholder string for showing on demo List View.";
+"loading" = "Loading..";
+"all" = "All";
+"unknown" = "Unknown";
